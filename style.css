@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "OCR";
+  src: url(OCRAStdRegular.ttf);
+}
+
+body, html{
+  margin: 0px;
+  padding: 5px;
+}
+
+body{
+  background-color: #000000;
+  font-family: "OCR";
+  color: #547c5a;
+  font: 50em;
+}
+
+
+img{
+  width: 100%;
+  display: block;
+}
+/*Phone*/
+@media only screen and (max-width: 469px) {
+}
+/*Larger Screen*/
+@media only screen and (min-width: 1084px) {
+}
